@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MlSalaryDashboard/static/css/main.10e10a89.css",
-    "main.js": "/MlSalaryDashboard/static/js/main.61080b54.js",
+    "main.js": "/MlSalaryDashboard/static/js/main.d905ad23.js",
     "static/js/453.b33de1ac.chunk.js": "/MlSalaryDashboard/static/js/453.b33de1ac.chunk.js",
     "index.html": "/MlSalaryDashboard/index.html",
     "main.10e10a89.css.map": "/MlSalaryDashboard/static/css/main.10e10a89.css.map",
-    "main.61080b54.js.map": "/MlSalaryDashboard/static/js/main.61080b54.js.map",
+    "main.d905ad23.js.map": "/MlSalaryDashboard/static/js/main.d905ad23.js.map",
     "453.b33de1ac.chunk.js.map": "/MlSalaryDashboard/static/js/453.b33de1ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10e10a89.css",
-    "static/js/main.61080b54.js"
+    "static/js/main.d905ad23.js"
   ]
 }
